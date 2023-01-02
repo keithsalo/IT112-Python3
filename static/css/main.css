@@ -1,0 +1,50 @@
+/* body {
+margin: 0;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+td {
+    text-align: center;
+}
+
+.form {
+    margin-top: 20px;
+}
+
+#content {
+    width: 20%;
+}
+
+.class {
+    margin-left: auto;
+    margin-right: auto;
+} */
+
+
+
+body {
+    margin: 0;
+    font-family: sans-serif;
+ 
+    
+}
+
+table, td {
+    border: solid 3px #da751d;
+  padding: 5px;
+  background-clip: content-box; /* support: IE9+ */
+  
+  width: 35%;
+  /* height: 50%; */
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+form {
+    margin-left: 44%;
+    
+    
+}
